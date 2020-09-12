@@ -2,6 +2,10 @@
 
 **Desarrollador Full Stack especializado en Python y JavaScript.**
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=pablo-moreno&count_private=true&theme=dracula)](https://github.com/pablo-moreno)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-moreno&count_private=true&theme=dracula&layout=compact)](https://github.com/pablo-moreno)
+
 ## Contacto
 
 **E-mail:** pablomoreno.inf@gmail.com
@@ -23,6 +27,7 @@
 - **[Librería cliente de la API de AEMET](https://github.com/pablo-moreno/python-aemet)**
 - **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
 - **Aplicación chat en tiempo real: [Backend](https://github.com/pablo-moreno/poppy) y [Frontend](https://github.com/pablo-moreno/poppy-pwa)**
+- **Shitter, una copia de Twitter: [Backend](https://github.com/pablo-moreno/shitter-back) y [Frontend](https://github.com/pablo-moreno/shitter-pwa)**
 
 ## CV
 
