@@ -17,9 +17,9 @@
 ## Skills
 **Lenguajes de programación:** Python, Javascript
 
-**Frameworks/Librerías:** Django, Vue, Node.js, Express, ReactJS
+**Frameworks/Librerías:** Django, Vue, Nuxt.js
 
-**Otros:** Git, Github, MongoDB, MySQL, Docker, PostgreSQL
+**Otros:** Git, Github, Docker, PostgreSQL, Kubernetes
 
 ## Proyectos
 
@@ -28,9 +28,3 @@
 - **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
 - **Aplicación chat en tiempo real: [Backend](https://github.com/pablo-moreno/poppy) y [Frontend](https://github.com/pablo-moreno/poppy-pwa)**
 - **Shitter, una copia de Twitter: [Backend](https://github.com/pablo-moreno/shitter-back) y [Frontend](https://github.com/pablo-moreno/shitter-pwa)**
-
-## CV
-
-Puedes ver mi curriculum vitae completo en [este repositorio](https://github.com/pablo-moreno/cv)
-
-
