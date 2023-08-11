@@ -27,3 +27,7 @@
 - **[Librería cliente de la API de AEMET](https://github.com/pablo-moreno/python-aemet)**
 - **[Librería de Django para realizar peticiones HTTP](https://github.com/pablo-moreno/spook)**
 - **[Aplicación Web adopción de mascotas (Proyecto final DAW 2017)](https://github.com/pablo-moreno/adoptaweb)**
+
+## Pruebas técnicas realizadas
+
+- **[Wallets, prueba técnica sobre transacciones](https://github.com/pablo-moreno/wallets)**
