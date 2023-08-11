@@ -1,6 +1,6 @@
 ## Pablo Moreno 
 
-**Desarrollador Full Stack especializado en Python y JavaScript.**
+**Desarrollador Backend / Devops especializado en Python y Django.**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=pablo-moreno&count_private=true&theme=dracula)](https://github.com/pablo-moreno)
 
@@ -10,21 +10,20 @@
 
 **E-mail:** pablomoreno.inf@gmail.com
 
-**Twitter:** [@\_spookydev\_](https://twitter.com/_spookydev_)
+**Twitter:** [@spookydeveloper](https://twitter.com/spookydeveloper)
 
 **Linkedin:** [Pablo Moreno Pradas](https://www.linkedin.com/in/pablo-moreno-pradas/)
 
 ## Skills
-**Lenguajes de programación:** Python, Javascript
+**Lenguajes de programación:** Python
 
-**Frameworks/Librerías:** Django, Vue, Nuxt.js
+**Frameworks/Librerías:** Django
 
 **Otros:** Git, Github, Docker, PostgreSQL, Kubernetes
 
 ## Proyectos
 
-- **[Aplicación Web adopción de mascotas (Proyecto final DAW 2017)](https://github.com/pablo-moreno/adoptaweb)**
-- **[Librería cliente de la API de AEMET](https://github.com/pablo-moreno/python-aemet)**
-- **[Estación de medición de temperatura (IoT)](https://github.com/pablo-moreno/iot_weather_station)**
-- **Aplicación chat en tiempo real: [Backend](https://github.com/pablo-moreno/poppy) y [Frontend](https://github.com/pablo-moreno/poppy-pwa)**
 - **Shitter, una copia de Twitter: [Backend](https://github.com/pablo-moreno/shitter-back) y [Frontend](https://github.com/pablo-moreno/shitter-pwa)**
+- **[Librería cliente de la API de AEMET](https://github.com/pablo-moreno/python-aemet)**
+- **[Librería de Django para realizar peticiones HTTP](https://github.com/pablo-moreno/spook)**
+- **[Aplicación Web adopción de mascotas (Proyecto final DAW 2017)](https://github.com/pablo-moreno/adoptaweb)**
