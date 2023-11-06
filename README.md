@@ -10,8 +10,6 @@
 
 **E-mail:** pablomoreno.inf@gmail.com
 
-**Twitter:** [@spookydeveloper](https://twitter.com/spookydeveloper)
-
 **Linkedin:** [Pablo Moreno Pradas](https://www.linkedin.com/in/pablo-moreno-pradas/)
 
 ## Skills
