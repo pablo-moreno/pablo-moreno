@@ -6,6 +6,11 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-moreno&count_private=true&theme=dracula&layout=compact)](https://github.com/pablo-moreno)
 
+<p align="center">
+  <a href="https://github.com/pablo-moreno"><img loading="lazy" src="https://hits.sh/github.com/pablo-moreno.svg?label=Visitors&color=white&labelColor=blue" alt="Visitors"></a> 
+  <a href="https://github.com/pablo-moreno"><img loading="lazy" src="https://komarev.com/ghpvc/?username=pablo-moreno" width="1" height="1" /></a>
+</p>
+
 ## Contacto
 
 **E-mail:** pablomoreno.inf@gmail.com
