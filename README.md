@@ -2,10 +2,7 @@
 
 **Desarrollador Backend / Devops especializado en Python y Django.**
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/?username=pablo-moreno&count_private=true&theme=dracula)](https://github.com/pablo-moreno)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/top-langs/?username=pablo-moreno&count_private=true&theme=dracula&layout=compact)](https://github.com/pablo-moreno)
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=pablo-moreno&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=pablo-moreno&rank_icon=github&show=reviews%2Cdiscussions_started%2Cdiscussions_answered%2Cprs_merged%2Cprs_merged_percentage%2Cprs_commented%2Cprs_reviewed%2Cissues_commented&show_icons=true&include_all_commits=true&theme=radical)
 <p align="center">
   <a href="https://github.com/pablo-moreno"><img loading="lazy" src="https://hits.sh/github.com/pablo-moreno.svg?label=Visitors&color=white&labelColor=blue" alt="Visitors"></a> 
   <a href="https://github.com/pablo-moreno"><img loading="lazy" src="https://komarev.com/ghpvc/?username=pablo-moreno" width="1" height="1" /></a>
